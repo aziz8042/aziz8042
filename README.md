@@ -10,7 +10,7 @@
 
 <br><br>
 
-<img align="right" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Bwcm9wZnd4ZzRndHpwYnB0Z3J4dGdwY3N0N3B6NXBtcm8yeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" alt="Cartoon Programmer Coding" />
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWJzajI5dnUyeWZtZGxhM3BhcHR0d283a2poZzljdDNoanRhdGVycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1GEATImIxEXVR79Dhk/giphy.gif" alt="Cartoon Programmer Coding" />
 
 ## 👨‍💻 About Me
 
