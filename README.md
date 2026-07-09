@@ -29,7 +29,7 @@
 
 <td width="42%" align="center">
 
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" />
+<img src="http://googleusercontent.com/image_collection/image_retrieval/15258700140853766688_0" />
 
 </td>
 
