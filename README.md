@@ -75,42 +75,4 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,visualstudio,vscode,postman" />
 </p>
 
-<br><br>
 
-<h3>🚀 Technologies I Work With</h3>
-
-✔ ASP.NET Core (.NET 8) <br>
-✔ C# <br>
-✔ Entity Framework Core <br>
-✔ REST APIs <br>
-✔ React.js <br>
-✔ TypeScript <br>
-✔ SQL Server <br>
-✔ MySQL <br>
-✔ JWT Authentication <br>
-✔ Clean Architecture <br>
-✔ Repository Pattern <br>
-✔ Dependency Injection <br>
-✔ Docker <br>
-✔ Git <br>
-✔ GitHub <br>
-✔ Linux
-
-<br><br>
-
-<h3>🎯 Current Focus</h3>
-
-- Building enterprise-grade ASP.NET Core applications
-- Designing scalable REST APIs
-- Writing clean and maintainable backend architecture
-- Improving database performance using SQL Server
-- Enhancing React frontend applications
-- Learning modern cloud-native .NET development
-
-<br><br>
-
-<div align="center">
-
-### 💙 Transforming real-world problems into structured code and impactful digital solutions.
-
-</div>
