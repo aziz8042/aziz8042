@@ -32,7 +32,7 @@
   </tr>
 </table>
 
-
+<br>
 
 <h3>🤝 Connect With Me</h3>
 
@@ -45,7 +45,7 @@
   </a>
 </p>
 
-<br><br>
+<br>
 
 <h3>🛠 Languages & Tools</h3>
 
