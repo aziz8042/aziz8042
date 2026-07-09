@@ -9,7 +9,7 @@
 
 </div>
 
-<br><br>
+
 
 <!-- Two-column layout to perfectly align the About Me text and the Bear GIF side-by-side -->
 <table>
@@ -26,7 +26,7 @@
         <li>💼 Open to <b>Full-Time Software Engineer</b> opportunities</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
+    <td width="50%" align="center" valign="middle">
       <img width="320" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWJzajI5dnUyeWZtZGxhM3BhcHR0d283a2poZzljdDNoanRhdGVycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1GEATImIxEXVR79Dhk/giphy.gif" alt="Cartoon Programmer Coding" />
     </td>
   </tr>
