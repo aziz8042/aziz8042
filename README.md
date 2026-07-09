@@ -8,76 +8,58 @@
 
 </div>
 
----
+<br>
 
-<table>
-<tr>
-
-<td width="58%" valign="top">
+<p align="center">
+<img width="350" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
+</p>
 
 ## 👨‍💻 About Me
 
 - 💼 Currently working as a **Full Stack .NET Developer**
-- 🚀 Specializing in **ASP.NET Core**, **REST APIs**, and **SQL Server**
-- 🌱 Continuously improving my backend architecture and cloud development skills
+- 🚀 Specializing in **ASP.NET Core, REST APIs, and SQL Server**
+- 🌱 Continuously improving my backend architecture and modern .NET development skills
 - ⚛️ Building responsive web applications using **React** and **TypeScript**
 - 💬 Ask me about **ASP.NET Core, C#, Entity Framework Core, SQL Server, React**
-- 📫 Reach me at **YOUR_EMAIL**
+- 📫 Reach me at **YOUR_EMAIL@gmail.com**
 - 💼 Open to **Full-Time Software Engineer** opportunities
 
-</td>
-
-<td width="42%" align="center">
-
-<img src="http://googleusercontent.com/image_collection/image_retrieval/15258700140853766688_0" />
-
-</td>
-
-</tr>
-</table>
-
----
+<br>
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p>
 
-<a href="https://www.linkedin.com/in/aziz-ullahkhan/" target="_blank">
+<a href="https://www.linkedin.com/in/aziz-ullahkhan/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
----
+<br>
 
 # 🛠 Languages & Tools
 
 ### Programming Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,python,html,css" />
-
 </p>
 
 ### Frontend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind" />
-
 </p>
 
 ### Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,fastapi" />
-
+<img src="https://skillicons.dev/icons?i=dotnet" />
 </p>
 
 ### Databases
@@ -93,59 +75,42 @@
 ### Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,visualstudio,vscode,postman" />
-
 </p>
 
----
+<br>
 
 # 🚀 Technologies I Work With
 
-✔ ASP.NET Core (.NET 8)
+- ASP.NET Core (.NET 8)
+- C#
+- Entity Framework Core
+- REST APIs
+- React.js
+- TypeScript
+- SQL Server
+- MySQL
+- JWT Authentication
+- Clean Architecture
+- Repository Pattern
+- Dependency Injection
+- Docker
+- Git
+- GitHub
+- Linux
 
-✔ C#
-
-✔ Entity Framework Core
-
-✔ REST APIs
-
-✔ React.js
-
-✔ TypeScript
-
-✔ SQL Server
-
-✔ MySQL
-
-✔ JWT Authentication
-
-✔ Clean Architecture
-
-✔ Repository Pattern
-
-✔ Dependency Injection
-
-✔ Docker
-
-✔ Git
-
-✔ GitHub
-
-✔ Linux
-
----
+<br>
 
 # 🎯 Current Focus
 
 - Building enterprise-grade ASP.NET Core applications
 - Designing scalable REST APIs
 - Writing clean and maintainable backend architecture
-- Improving database performance using SQL Server
-- Enhancing React frontend applications
-- Learning modern cloud-native .NET development
+- Optimizing SQL Server databases
+- Developing modern React frontends
+- Exploring cloud-native .NET development
 
----
+<br>
 
 <div align="center">
 
