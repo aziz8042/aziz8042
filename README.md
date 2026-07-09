@@ -29,7 +29,7 @@
 
 <td width="42%" align="center">
 
-<img width="360" src="https://cdn.jsdelivr.net/gh/sukritin-99/sukritin-99/assets/developer.gif">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" />
 
 </td>
 
