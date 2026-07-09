@@ -2,148 +2,113 @@
 
 # Hi 👋, I'm Aziz Ullah
 
-### Full Stack .NET Developer | Backend Engineer | React Developer | Machine Learning Enthusiast
+### Full Stack .NET Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+.NET+Developer;Building+Scalable+Web+Applications;Backend+API+Specialist;React+%7C+ASP.NET+Core+%7C+SQL+Server;Machine+Learning+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=0078D4&center=true&vCenter=true&width=850&lines=Full+Stack+.NET+Developer;Building+Secure+REST+APIs;ASP.NET+Core+%7C+React+%7C+SQL+Server;Transforming+Real-World+Problems+Into+Scalable+Solutions" />
 
 </div>
 
 ---
 
-# 💫 About Me
+<table>
+<tr>
 
-I'm a passionate **Full Stack .NET Developer** who enjoys building modern, scalable, and high-performance applications.
+<td width="58%" valign="top">
 
-I specialize in designing secure REST APIs, developing responsive frontend applications, optimizing databases, and creating maintainable software architectures.
+## 👨‍💻 About Me
 
-I enjoy solving real-world engineering problems through clean code, scalable backend systems, and modern web technologies.
+- 💼 Currently working as a **Full Stack .NET Developer**
+- 🚀 Specializing in **ASP.NET Core**, **REST APIs**, and **SQL Server**
+- 🌱 Continuously improving my backend architecture and cloud development skills
+- ⚛️ Building responsive web applications using **React** and **TypeScript**
+- 💬 Ask me about **ASP.NET Core, C#, Entity Framework Core, SQL Server, React**
+- 📫 Reach me at **YOUR_EMAIL**
+- 💼 Open to **Full-Time Software Engineer** opportunities
+
+</td>
+
+<td width="42%" align="center">
+
+<img width="360" src="https://cdn.jsdelivr.net/gh/sukritin-99/sukritin-99/assets/developer.gif">
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🚀 Current Focus
+## 🤝 Connect With Me
 
-- 🔹 ASP.NET Core & .NET 8
-- 🔹 REST API Development
-- 🔹 React & TypeScript
-- 🔹 SQL Server Optimization
-- 🔹 Entity Framework Core
-- 🔹 Python & FastAPI
-- 🔹 Machine Learning
-- 🔹 Deep Learning
-- 🔹 Software Architecture
-- 🔹 Clean Code Practices
+<p align="left">
 
----
+<a href="https://www.linkedin.com/in/aziz-ullahkhan/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-# 💻 Tech Stack
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts,html,css" />
 </p>
 
 ---
 
-## Frontend
+# 🛠 Languages & Tools
+
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+
+<img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,python,html,css" />
+
 </p>
 
----
-
-## Backend
+### Frontend
 
 <p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind" />
+
+</p>
+
+### Backend
+
+<p>
+
 <img src="https://skillicons.dev/icons?i=dotnet,nodejs,fastapi" />
+
 </p>
 
----
-
-## Database
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 </p>
 
----
-
-## Tools & Technologies
+### Tools
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,visualstudio,vscode,postman" />
-</p>
-
----
-
-## Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-
-<img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch"/>
-
-<img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow"/>
-
-<img src="https://img.shields.io/badge/ONNX-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenCV-green?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Technologies I Work With
 
-<p align="center">
+✔ ASP.NET Core (.NET 8)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🌟 Featured Skills
-
-✔ ASP.NET Core
-
-✔ REST APIs
+✔ C#
 
 ✔ Entity Framework Core
+
+✔ REST APIs
 
 ✔ React.js
 
@@ -151,15 +116,15 @@ I enjoy solving real-world engineering problems through clean code, scalable bac
 
 ✔ SQL Server
 
+✔ MySQL
+
+✔ JWT Authentication
+
 ✔ Clean Architecture
 
-✔ FastAPI
+✔ Repository Pattern
 
-✔ Python
-
-✔ Machine Learning
-
-✔ Deep Learning
+✔ Dependency Injection
 
 ✔ Docker
 
@@ -171,30 +136,19 @@ I enjoy solving real-world engineering problems through clean code, scalable bac
 
 ---
 
-# 📫 Connect With Me
+# 🎯 Current Focus
 
-<p>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+- Building enterprise-grade ASP.NET Core applications
+- Designing scalable REST APIs
+- Writing clean and maintainable backend architecture
+- Improving database performance using SQL Server
+- Enhancing React frontend applications
+- Learning modern cloud-native .NET development
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-*"Transforming real-world problems into structured code and impactful digital solutions."*
+### 💙 Transforming real-world problems into structured code and impactful digital solutions.
 
 </div>
