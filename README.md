@@ -2,118 +2,103 @@
 
 # Hi 👋, I'm Aziz Ullah
 
-### Full Stack .NET Developer
+<h3>Full Stack .NET Developer</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=0078D4&center=true&vCenter=true&width=850&lines=Full+Stack+.NET+Developer;Building+Secure+REST+APIs;ASP.NET+Core+%7C+React+%7C+SQL+Server;Transforming+Real-World+Problems+Into+Scalable+Solutions" />
+<!-- Adjusted size and width so your text never gets cut off on the right -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=3500&pause=1200&color=0078D4&center=true&vCenter=true&width=650&lines=Full+Stack+.NET+Developer;Building+Secure+REST+APIs;ASP.NET+Core+%7C+React+%7C+SQL+Server;Transforming+Real-World+Solutions" />
 
 </div>
 
 <br><br>
 
-<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWJzajI5dnUyeWZtZGxhM3BhcHR0d283a2poZzljdDNoanRhdGVycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1GEATImIxEXVR79Dhk/giphy.gif" alt="Cartoon Programmer Coding" />
-
-## 👨‍💻 About Me
-
-- 💼 Currently working as a **Full Stack .NET Developer**
-- 🚀 Specializing in **ASP.NET Core**, **REST APIs**, and **SQL Server**
-- 🌱 Continuously improving my backend architecture and cloud development skills
-- ⚛️ Building responsive web applications using **React** and **TypeScript**
-- 💬 Ask me about **ASP.NET Core, C#, Entity Framework Core, SQL Server, React**
-- 📫 Reach me at **YOUR_EMAIL**
-- 💼 Open to **Full-Time Software Engineer** opportunities
-
-<br clear="both">
+<!-- Two-column layout to perfectly align the About Me text and the Bear GIF side-by-side -->
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <ul>
+        <li>💼 Currently working as a <b>Full Stack .NET Developer</b></li>
+        <li>🚀 Specializing in <b>ASP.NET Core</b>, <b>REST APIs</b>, and <b>SQL Server</b></li>
+        <li>🌱 Continuously improving my backend architecture and cloud development skills</li>
+        <li>⚛️ Building responsive web applications using <b>React</b> and <b>TypeScript</b></li>
+        <li>💬 Ask me about <b>ASP.NET Core, C#, Entity Framework Core, SQL Server, React</b></li>
+        <li>📫 Reach me at <b>YOUR_EMAIL</b></li>
+        <li>💼 Open to <b>Full-Time Software Engineer</b> opportunities</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img width="320" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWJzajI5dnUyeWZtZGxhM3BhcHR0d283a2poZzljdDNoanRhdGVycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1GEATImIxEXVR79Dhk/giphy.gif" alt="Cartoon Programmer Coding" />
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
-## 🤝 Connect With Me
+<h3>🤝 Connect With Me</h3>
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/aziz-ullahkhan/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/aziz-ullahkhan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <br><br>
 
-## 🛠 Languages & Tools
+<h3>🛠 Languages & Tools</h3>
 
-### Programming Languages
-
+<h4>Programming Languages</h4>
 <p>
-<img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,python,html,css" />
 </p>
 
-### Frontend
-
+<h4>Frontend</h4>
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind" />
 </p>
 
-### Backend
-
+<h4>Backend</h4>
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,fastapi" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,fastapi" />
 </p>
 
-### Databases
-
+<h4>Databases</h4>
 <p>
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### Tools
-
+<h4>Tools</h4>
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,visualstudio,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,visualstudio,vscode,postman" />
 </p>
 
 <br><br>
 
-## 🚀 Technologies I Work With
+<h3>🚀 Technologies I Work With</h3>
 
-✔ ASP.NET Core (.NET 8)
-
-✔ C#
-
-✔ Entity Framework Core
-
-✔ REST APIs
-
-✔ React.js
-
-✔ TypeScript
-
-✔ SQL Server
-
-✔ MySQL
-
-✔ JWT Authentication
-
-✔ Clean Architecture
-
-✔ Repository Pattern
-
-✔ Dependency Injection
-
-✔ Docker
-
-✔ Git
-
-✔ GitHub
-
+✔ ASP.NET Core (.NET 8) <br>
+✔ C# <br>
+✔ Entity Framework Core <br>
+✔ REST APIs <br>
+✔ React.js <br>
+✔ TypeScript <br>
+✔ SQL Server <br>
+✔ MySQL <br>
+✔ JWT Authentication <br>
+✔ Clean Architecture <br>
+✔ Repository Pattern <br>
+✔ Dependency Injection <br>
+✔ Docker <br>
+✔ Git <br>
+✔ GitHub <br>
 ✔ Linux
 
 <br><br>
 
-## 🎯 Current Focus
+<h3>🎯 Current Focus</h3>
 
 - Building enterprise-grade ASP.NET Core applications
 - Designing scalable REST APIs
