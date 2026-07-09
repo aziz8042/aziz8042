@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=3500&pause=1200&color=0078D4&center=true&vCenter=true&width=650&lines=Full+Stack+.NET+Developer;Building+Secure+REST+APIs;ASP.NET+Core+%7C+React+%7C+SQL+Server;Transforming+Real-World+Solutions" />
 
 </div>
-
+<br>
 
 
 <!-- Two-column layout to perfectly align the About Me text and the Bear GIF side-by-side -->
