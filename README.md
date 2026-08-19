@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Currently working as a **Full Stack .NET Developer**
+- 💼 Currently working as a **Full Stack .NET + React Developer**
 - 🚀 Specializing in **ASP.NET Core**, **REST APIs**, and **SQL Server**
 - 🌱 Continuously improving backend architecture and cloud development skills
 - ⚛️ Building responsive web applications using **React** and **TypeScript**
