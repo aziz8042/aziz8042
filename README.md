@@ -1,141 +1,107 @@
 <div align="center">
 
-Hey, I'm Aziz Ullah 👋
-Software Engineer · Full-Stack Development · Applied AI
-I build web products and business software that make everyday work simpler — from interactive user interfaces and reliable APIs to tools that automate real-world workflows.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6C63FF&height=190&section=header&text=Aziz%20Ullah&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer&descSize=20&descAlignY=60" alt="Aziz Ullah - Full-Stack Engineer"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=3500&pause=1200&color=0078D4&center=true&vCenter=true&width=700&lines=Python+%26+FastAPI+%7C+React+%7C+.NET;Turning+slow+manual+work+into+simple+software;APIs%2C+clean+UIs%2C+and+a+bit+of+machine+learning" alt="Typing animation"/>
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/aziz-ullahkhan/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:azizullah.wah@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Aziz"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://github.com/aziz8042">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub projects"/>
+<!-- TODO: replace the link below with your real portfolio URL -->
+<a href="https://YOUR-PORTFOLIO-URL">
+<img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
-
-
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=268BD2&center=true&vCenter=true&width=720&lines=Building+useful+software%2C+from+idea+to+delivery;Full-stack+applications+%7C+APIs+%7C+Business+automation;Exploring+machine+learning+and+deep+learning" alt="A rotating summary of my engineering interests"/>
 
 </div>
 
-👨‍💻 A little about me
-I'm a Computer Science graduate who enjoys turning practical problems into software people can actually use. My work spans full-stack web applications, backend services, business management systems, and product-focused websites.
-I've worked with remote teams across different markets and contributed to projects ranging from enterprise management systems to customer-facing web tools. I care about more than getting a feature to work: I want the result to be understandable, maintainable, and useful to the people relying on it.
-- 🧩 What I build: Web applications, REST APIs, SaaS products, and business automation tools.
-- 🛠️ How I work: Connecting frontend experiences with dependable backend services and databases.
-- 🧠 What I'm exploring: Machine learning, deep learning, and practical ways to apply AI.
-- 🎓 Background: BS Computer Science, University of Haripur.
-- 🤝 Open to: Meaningful software engineering opportunities and collaborations.
+<br>
+
+## 👋 About me
+
+I'm a full-stack engineer from Wah Cantt, Pakistan, and I'm happiest when someone hands me a slow, manual process and I get to turn it into something that just works.
+
+I started out on the .NET side and it's still a tool I reach for, but these days I move between **Python and FastAPI**, **React and TypeScript**, and **ASP.NET Core** depending on what the problem needs. I also work with machine learning (PyTorch, OpenCV, transformers), and I like bringing it into real products when it actually earns its place.
+
+- 🧭 **Right now:** Full-Stack Engineer at SafeX Solutions, Islamabad
+- 🌍 **How I work:** remotely with teams in Dubai and Canada, so time zones don't scare me
+- 💬 **Ask me about:** structuring APIs so they stay maintainable, choosing between FastAPI and ASP.NET Core, or wiring a React front end to a clean backend
+- 📫 **Open to:** full-time software engineer roles, reach me at [azizullah.wah@gmail.com](mailto:azizullah.wah@gmail.com)
+
+<br>
 
 <p align="center">
-  <img width="340" src="./assets/coding.gif" alt="Coding animation"/>
+
+<img width="340" src="./assets/coding.gif" alt="Coding">
+
 </p>
 
+<br>
 
-🧭 What I work with
-I choose tools based on the problem rather than tying every project to one stack.
-Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts,html,css,php" alt="C sharp, C plus plus, Python, JavaScript, TypeScript, HTML, CSS and PHP"/>
-</p>
+## 🚀 What I've been building
 
-Frontend & user interfaces
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind" alt="React, Next.js, Bootstrap and Tailwind CSS"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=flat-square&logo=chakraui&logoColor=white" alt="Chakra UI"/>
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/>
-</p>
+| | |
+|---|---|
+| **SafeX Solutions**<br>Full-Stack Engineer · 2026 – now | I build SaaS products on FastAPI and React, including social media downloaders, file compression tools and a PDF editor. I also ship custom POS systems in .NET for supermarkets and retail shops, plus websites for creators and trading companies. |
+| **Inspire Systems**<br>Full-Stack Developer · 2024 – 2025 · Remote, Dubai | I built the backend for hotel management, HR and ERP platforms as .NET microservices on clean architecture, then built the React interfaces on top. The systems took enough manual coordination off the team to save roughly **$300+ a month** in management overhead. |
+| **EUT**<br>Backend Intern · 2023 · Remote, Canada | I helped design an inventory platform with live stock updates, expiry tracking, supplier management and an admin dashboard, structured with Clean Architecture so it could grow without turning messy. |
 
-Backend & application development
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,fastapi,django,nodejs" alt=".NET, FastAPI, Django and Node.js"/>
-</p>
+<br>
 
-Data & databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="MySQL, PostgreSQL and SQLite"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-</p>
+## 🛠 My toolbox
 
-AI & machine learning
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv" alt="PyTorch and OpenCV"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-CNNs%20%7C%20RNNs%20%7C%20Transformers-7952B3?style=flat-square" alt="Deep learning topics"/>
-</p>
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,html,css,tailwind,bootstrap" alt="Frontend"/>
 
-Architecture, deployment & developer tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,azure,git,github,linux,visualstudio,vscode,postman" alt="Docker, Azure, Git, GitHub, Linux, Visual Studio, VS Code and Postman"/>
-</p>
+**Backend**<br>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,dotnet,cs,nodejs,php" alt="Backend"/>
 
-I also work with Clean Architecture, Microservices, CQRS, and N-Tier Architecture, depending on an application's requirements.
-🚀 Selected work
-A few examples of the kinds of systems I've worked on:
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ Smart Antivirus System</h3>
-      A Windows desktop security project focused on malware detection and system protection.
-      <br/><br/>
-      <a href="https://github.com/aziz8042/Smart-Anitivirus-System">View repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📋 Project Management System</h3>
-      A full-stack application built to organize project work and make task management easier.
-      <br/><br/>
-      <a href="https://github.com/aziz8042/Project-Management-System">View repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎟️ Eventify</h3>
-      An event management application designed to bring event-related workflows into one place.
-      <br/><br/>
-      <a href="https://github.com/aziz8042/Event-Creation-and-Management-Application">View repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏥 Business & management systems</h3>
-      Experience across hospital, school, HR, hotel, and enterprise resource management workflows, including API development and frontend integration.
-    </td>
-  </tr>
-</table>
+**Data & AI**<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,pytorch,numpy,pandas,sklearn,opencv" alt="Data and AI"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 
-🧰 Problems I've helped solve
-- Business operations: Developed management software and POS workflows to support day-to-day operations and inventory handling.
-- Enterprise systems: Built and integrated REST APIs and user interfaces for HR, hotel, inventory, and ERP-related workflows.
-- Web products: Worked on SaaS tools such as file-compression utilities, PDF editors, and social media downloaders.
-- Online presence: Created portfolio websites for content creators and WordPress websites for international businesses.
-🏗️ Engineering approach
-For me, good software is not just about the framework. It's about how the pieces fit together.
-- Maintainability: Clear separation of responsibilities and architecture that supports future changes.
-- Integration: APIs and interfaces that work together instead of becoming separate silos.
-- Practical impact: Features that reduce repetitive work and make workflows easier to manage.
-- Continued learning: Exploring tools and techniques that help me solve problems more effectively.
-🎓 Education & recognition
-BS Computer Science
-University of Haripur · 2022–2026 · CGPA: 3.40
-- 🏅 Prime Minister's Laptop Award & Outstanding Performance Certificate — Government of Pakistan (2026)
-- 📜 HEC National Skill Competency Test Certification — Higher Education Commission, Pakistan (2025)
-- 🏆 Certificate of Excellence — General Bilal Akbar, Pakistan Ordnance Factories (2020)
-📬 Let's connect
-Have a project in mind, want to discuss software engineering, or think we could build something useful together? Feel free to reach out.
-<p align="center">
-  <a href="mailto:azizullah.wah@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Aziz-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Aziz"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aziz-ullahkhan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>
-</p>
+**Cloud & Tools**<br>
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github,linux,wordpress,vscode,visualstudio,postman" alt="Cloud and tools"/>
+
+**How I structure things**<br>
+<img src="https://img.shields.io/badge/Clean_Architecture-0078D4?style=flat-square" alt="Clean Architecture"/>
+<img src="https://img.shields.io/badge/Microservices-6C63FF?style=flat-square" alt="Microservices"/>
+<img src="https://img.shields.io/badge/CQRS-0078D4?style=flat-square" alt="CQRS"/>
+<img src="https://img.shields.io/badge/N--Tier-6C63FF?style=flat-square" alt="N-Tier"/>
+
+<br>
+
+## 🧩 Other things I've built
+
+Eventify (event management), a School ERP, a Hospital Management System, a Project Management System, and a Smart Antivirus & Malware System. Check my pinned repositories for the code.
+
+<br>
+
+## 🏆 Recognition
+
+- 🥇 **Prime Minister's Laptop Award** and Outstanding Performance Certificate, Government of Pakistan (2026)
+- 🎖 **HEC National Skill Competency Test** certification, Higher Education Commission (2025)
+- 🎓 **BS in Computer Science**, University of Haripur (2022 – 2026)
+
+<br>
+
+## 🤝 Let's talk
+
+If you have a messy workflow that deserves better software, or a team that needs a full-stack engineer who cares about clean, maintainable code, I'd love to hear from you.
 
 <div align="center">
-  <sub>Thanks for stopping by. Have a great day, and happy building! ✨</sub>
+
+<a href="https://www.linkedin.com/in/aziz-ullahkhan/">
+<img src="https://img.shields.io/badge/Message_me_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:azizullah.wah@gmail.com">
+<img src="https://img.shields.io/badge/Send_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6C63FF&height=100&section=footer" alt=""/>
+
 </div>
