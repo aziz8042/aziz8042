@@ -20,9 +20,9 @@
 
 I’m a full-stack developer with 1+ year of professional experience building applications for real business needs. I enjoy working across the stack—from designing APIs and data flows to building interfaces people can use comfortably.
 
-My work has included business-management systems, automation tools, retail software, and portfolio websites for content creators. I work mainly with **.NET, React, and Python**, choosing the tools and architecture that fit the problem rather than treating every project the same.
+My work has included business management systems, automation tools, retail software, and portfolio websites for content creators. I work mainly with **.NET, React, and Python**, choosing the tools and architecture that fit the problem rather than treating every project the same.
 
-I’m interested in software that is maintainable, thoughtfully designed, and genuinely useful after it ships.
+I like building software that solves problem, automate business, and genuinely useful after it ships.
 
 <br>
 
@@ -61,10 +61,10 @@ I’m interested in software that is maintainable, thoughtfully designed, and ge
 
 A few areas I’ve contributed to professionally:
 
-- **Business and enterprise systems** — REST APIs and full-stack features for hotel management, HR, ERP, and inventory workflows.
-- **Automation and utility tools** — SaaS applications for social media downloads, file compression, and PDF editing, built with FastAPI and React.
-- **Retail operations** — Custom .NET WinForms POS systems designed to support everyday sales and inventory workflows.
-- **Creator and business websites** — Portfolio experiences for content creators and WordPress websites for international trade businesses.
+- **Business and enterprise systems:**  REST APIs and full-stack features for hotel management, HR, ERP, and inventory workflows.
+- **Automation and utility tools:**  SaaS applications for social media downloads, file compression, and PDF editing, built with FastAPI and React.
+- **Retail operations:**  Custom .NET WinForms POS systems designed to support everyday sales and inventory workflows.
+- **Creator and business websites:**  Portfolio experiences for content creators and WordPress websites for international trade businesses.
 
 ### Projects
 
