@@ -1,240 +1,164 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,45:1B1464,100:00E5FF&height=250&section=header&text=Aziz%20Ullah&fontSize=68&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20Builder%20%C2%B7%20Systems%20Thinker&descSize=18&descAlignY=58&animation=twinkling" width="100%" alt="Aziz Ullah - Full-Stack Engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=5200&pause=1900&color=67E8F9&center=true&vCenter=true&repeat=true&width=780&height=42&lines=Full-Stack+Engineer+%7C+Product-minded+Builder;Web+Applications+%C2%B7+Automation+%C2%B7+AI%2FML;From+practical+ideas+to+useful+software" alt="Full-stack engineering, automation, and AI/ML" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=760&height=50&lines=I+turn+messy+business+workflows+into+software+that+runs+itself;FastAPI+%C2%B7+.NET+%C2%B7+React+%C2%B7+PyTorch;Shipping+SaaS+tools%2C+POS+systems+%26+enterprise+APIs;Currently+building+at+SafeX+Solutions" alt="Typing intro"/>
+# Aziz Ullah
 
-<br/>
+### Full-Stack Engineer · Software Developer
 
-<a href="https://www.linkedin.com/in/aziz-ullahkhan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0F19"/></a>
-<a href="mailto:azizullah.wah@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0F19"/></a>
-<a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-Visit-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B0F19"/></a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=7C4DFF&label=PROFILE+VIEWS&labelColor=0B0F19"/>
+*I build useful software that makes complex work simpler.*
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Open_to-Full--Time_Roles-00E5FF?style=flat-square&labelColor=0B0F19"/>
-<img src="https://img.shields.io/badge/Works_with-Remote_Teams-7C4DFF?style=flat-square&labelColor=0B0F19"/>
-<img src="https://img.shields.io/badge/Based_in-Wah_Cantt,_Pakistan-1B2333?style=flat-square&labelColor=0B0F19"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-ullahkhan/)
+[![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:azizullah.wah@gmail.com)
+![Location](https://img.shields.io/badge/Based_in-Pakistan-334155?style=flat-square)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7C4DFF&height=2&section=header" width="100%" height="2"/>
+---
 
-<h2 align="center">⚡ The Short Version</h2>
+## A little about my work
 
-I'm a full-stack engineer who gets the most satisfaction when software quietly takes work off someone's plate. In the last couple of years that has meant hotel, HR and ERP backends for a team in Dubai, point-of-sale systems for supermarkets, and SaaS tools that people open every single day. I also keep one foot in machine learning, because I can never leave an interesting problem alone.
+I’m a full-stack developer with 1+ year of professional experience building applications for real business needs. I enjoy working across the stack—from designing APIs and data flows to building interfaces people can use comfortably.
 
-One number I'm proud of: a system I built made extra management staff unnecessary, saving roughly **$300+ every month**. I like putting results like that next to my code.
+My work has included business-management systems, automation tools, retail software, and portfolio websites for content creators. I work mainly with **.NET, React, and Python**, choosing the tools and architecture that fit the problem rather than treating every project the same.
 
-<br/>
+I’m interested in software that is maintainable, thoughtfully designed, and genuinely useful after it ships.
+
+<br>
 
 <p align="center">
-
-<img width="340" src="./assets/coding.gif" alt="Coding">
-
+  <img width="340" src="./assets/coding.gif" alt="A coding animation representing my software development work" />
 </p>
 
-<br/>
+<br>
 
-<table align="center">
-<tr>
-<td>🔭 <b>Now</b></td>
-<td>Building SaaS products and automation at <b>SafeX Solutions</b></td>
-</tr>
-<tr>
-<td>🧠 <b>Also working with</b></td>
-<td>Transformers, CNNs and RNNs in PyTorch</td>
-</tr>
-<tr>
-<td>🎯 <b>Looking for</b></td>
-<td>A full-time engineering role where I can own real products</td>
-</tr>
-<tr>
-<td>💬 <b>Ask me about</b></td>
-<td>Clean Architecture, FastAPI, .NET, React, shipping on a budget</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C4DFF,100:00E5FF&height=2&section=header" width="100%" height="2"/>
-
-<h2 align="center">🎬 Things I've Shipped</h2>
+## What I work on
 
 <table>
-<tr>
-<td width="33%" valign="top">
-
-**⚡ SaaS tools people actually use**
-
-Social media downloaders, file compressors and PDF editors, built on FastAPI with React on the front.
-
-</td>
-<td width="33%" valign="top">
-
-**🏪 Retail that runs on my code**
-
-Custom POS systems in .NET WinForms that handle the daily grind of inventory and checkout for supermarkets and retail centres.
-
-</td>
-<td width="33%" valign="top">
-
-**🏨 Enterprise automation**
-
-Microservice APIs behind a hotel management system, HR platform and ERP, designed so one small team could run what used to need many.
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-**🎥 Brands that look the part**
-
-Cinematic portfolio sites for creators Usman Aryan and Sergio Blanco, hand-built in HTML and PHP.
-
-</td>
-<td width="33%" valign="top">
-
-**🌍 Websites for trade businesses**
-
-WordPress presences for international traders such as AK Tobacco Traders and Gulzar Trading.
-
-</td>
-<td width="33%" valign="top">
-
-**📦 Inventory with a pulse**
-
-A scalable backend for live stock updates, supplier tracking and expiry monitoring, with an admin dashboard on top.
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Full-stack applications</strong><br>
+      Building connected frontend and backend experiences with React, TypeScript, ASP.NET Core, and FastAPI.
+    </td>
+    <td width="50%" valign="top">
+      <strong>APIs & system design</strong><br>
+      Developing REST APIs and working with Clean Architecture, microservices, CQRS, and N-tier design.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Business automation</strong><br>
+      Creating software that reduces repetitive work, supports day-to-day operations, and helps teams work more efficiently.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Web experiences</strong><br>
+      Crafting responsive interfaces, company websites, and portfolio sites with attention to usability and presentation.
+    </td>
+  </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7C4DFF&height=2&section=header" width="100%" height="2"/>
+## Selected work
 
-<h2 align="center">🧰 Toolbox</h2>
+A few areas I’ve contributed to professionally:
 
-<div align="center">
+- **Business and enterprise systems** — REST APIs and full-stack features for hotel management, HR, ERP, and inventory workflows.
+- **Automation and utility tools** — SaaS applications for social media downloads, file compression, and PDF editing, built with FastAPI and React.
+- **Retail operations** — Custom .NET WinForms POS systems designed to support everyday sales and inventory workflows.
+- **Creator and business websites** — Portfolio experiences for content creators and WordPress websites for international trade businesses.
 
-**Backend & APIs**<br/>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,fastapi,django,nodejs,php&theme=dark"/>
+### Projects
 
-**Frontend & Web**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,wordpress&theme=dark"/>
+These are projects I’ve worked on or developed; explore my repositories for implementation details as they become available.
 
-**AI & Data Science**<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas,opencv&theme=dark"/>
+| Project | Focus |
+| --- | --- |
+| **Smart Antivirus Malware System** | Malware detection and security |
+| **Eventify** | Event management |
+| **School ERP System** | School administration workflows |
+| **Hospital Management System** | Healthcare operations |
+| **Project Management System** | Project and task coordination |
 
-**Data & Cloud**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,azure,docker,linux&theme=dark"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+## Experience highlights
 
-**Workflow**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman&theme=dark"/>
+**Full-Stack Engineer · SafeX Solutions**  
+*Islamabad, Pakistan · Jul 2026 – Present*
 
-<br/>
+Building full-stack SaaS tools with FastAPI and React, developing .NET WinForms POS systems, and creating portfolio and business websites.
 
-**How I structure things**<br/>
-<img src="https://img.shields.io/badge/Clean_Architecture-1B1464?style=for-the-badge&labelColor=0B0F19"/>
-<img src="https://img.shields.io/badge/Microservices-7C4DFF?style=for-the-badge&labelColor=0B0F19"/>
-<img src="https://img.shields.io/badge/CQRS-00B8D4?style=for-the-badge&labelColor=0B0F19"/>
-<img src="https://img.shields.io/badge/N--Tier-00E5FF?style=for-the-badge&labelColor=0B0F19&logoColor=black"/>
+**Full-Stack Developer · Inspire Systems**  
+*Remote · Jun 2024 – Mar 2025*
 
-</div>
+Developed REST APIs and interactive React interfaces for hotel management, HR, and ERP systems. Worked with Clean Architecture and microservices; the delivered automation helped reduce operating costs by approximately **$300+ per month**.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C4DFF,100:00E5FF&height=2&section=header" width="100%" height="2"/>
+**Backend Developer Intern · EUT**  
+*Remote · Jun 2023 – Aug 2023*
 
-<h2 align="center">🧪 Projects Worth a Look</h2>
+Contributed to an enterprise inventory-management system with stock tracking, supplier management, expiry monitoring, and centralized administration, using .NET and Clean Architecture.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Technology I use
 
-**🛡️ Smart Antivirus Malware System**
-
-Where my security curiosity and machine-learning side meet.
-
-</td>
-<td width="50%" valign="top">
-
-**🎟️ Eventify**
-
-An event management platform, from planning through to the day itself.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🏫 School ERP**
-
-One system for the everyday running of a school.
-
-</td>
-<td width="50%" valign="top">
-
-**🏥 Hospital Management System**
-
-Patients, staff and records in one place.
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-**📋 Project Management System**
-
-A workspace for planning, assigning and tracking work across a team.
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7C4DFF&height=2&section=header" width="100%" height="2"/>
-
-<h2 align="center">🧭 How I Work</h2>
-
-- **Workflow first, framework second.** I start by understanding how the business actually runs, then pick the stack that fits.
-- **Boundaries that last.** Clean Architecture and CQRS are about keeping a system easy to change in its second year, not showing off patterns.
-- **Ship, watch, refine.** Real users find problems no spec ever will, so I put things in front of them early.
-
-<h3 align="center">🏆 Recognition</h3>
-
-<div align="center">
-
-🥇 **Prime Minister's Laptop Award** and Outstanding Performance Certificate, Government of Pakistan (2026)
-<br/>
-🎓 **HEC National Skill Competency Test** certified (2025)
-<br/>
-🏅 **Certificate of Excellence** from Pakistan Ordnance Factories (2020)
-<br/>
-📚 **BS Computer Science**, University of Haripur (2022 to 2026)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C4DFF,100:00E5FF&height=2&section=header" width="100%" height="2"/>
-
-<h2 align="center">📊 GitHub Pulse</h2>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&bg_color=0B0F19&title_color=00E5FF&icon_color=7C4DFF&text_color=C9D1D9&border_color=1B2333&count_private=true&include_all_commits=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&bg_color=0B0F19&title_color=00E5FF&text_color=C9D1D9&border_color=1B2333"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&background=0B0F19&ring=7C4DFF&fire=00E5FF&currStreakLabel=00E5FF&border=1B2333"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0B0F19&color=00E5FF&line=7C4DFF&point=FFFFFF&area=true&area_color=7C4DFF&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
-
-</div>
-
-<h2 align="center">🤝 Let's Build Something</h2>
+I’m comfortable moving between application layers and learning the right tools for the job.
 
 <p align="center">
-If you have a problem that's costing your team time, I'd love to hear about it.<br/>
-<a href="mailto:azizullah.wah@gmail.com"><b>azizullah.wah@gmail.com</b></a>
+  <strong>Languages</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,python,html,css,php" alt="C sharp, C++, JavaScript, TypeScript, Python, HTML, CSS, and PHP" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,55:1B1464,100:0B0F19&height=130&section=footer&reversal=true" width="100%"/>
+<p align="center">
+  <strong>Frontend</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind" alt="React, Next.js, Bootstrap, and Tailwind CSS" />
+  <br>
+  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white" alt="Chakra UI" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI" />
+</p>
+
+<p align="center">
+  <strong>Backend & APIs</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,fastapi,django" alt=".NET, Node.js, FastAPI, and Django" />
+</p>
+
+<p align="center">
+  <strong>Data & AI / Machine Learning</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,azure,pytorch,opencv" alt="MySQL, PostgreSQL, Azure, PyTorch, and OpenCV" />
+  <br><br>
+  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <br>
+  <sub>AI/ML foundations: Transformers, CNNs, and RNNs.</sub>
+</p>
+
+<p align="center">
+  <strong>Tools & deployment</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,visualstudio,vscode,postman" alt="Git, GitHub, Docker, Linux, Visual Studio, VS Code, and Postman" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" alt="Hostinger" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+</p>
+
+## Education & recognition
+
+- **BS Computer Science** — University of Haripur, 2022–2026 · CGPA: 3.40
+- **Prime Minister’s Laptop Award** and Outstanding Performance Certificate — Government of Pakistan, 2026
+- **HEC National Skill Competency Test Certification** — Higher Education Commission, Pakistan, 2025
+- **Certificate of Excellence** — Pakistan Ordnance Factories, 2020
+
+## Let’s connect
+
+I’m open to connecting with developers, teams, and people building thoughtful products. If you have an interesting problem to solve or would like to discuss software, feel free to reach out.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aziz-ullahkhan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:azizullah.wah@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_in_touch-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
+  </a>
+</p>
+
+<div align="center">
+
+<sub>Thoughtful engineering. Useful software. Continuous learning.</sub>
+
+</div>
